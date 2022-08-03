@@ -1,4 +1,6 @@
 ### Hi there 👋
+Drop the tox in a new project. Attach a Null top to the output in order to see a preview of your visuals.
+
 
 <!--
 **videodrugz/videodrugz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
